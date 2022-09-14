@@ -6,8 +6,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>edu.kata</groupId>
-    <artifactId>task31</artifactId>
+    <groupId>web</groupId>
+    <artifactId>web</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
